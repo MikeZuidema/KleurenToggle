@@ -36,4 +36,4 @@ greenToggle.addEventListener('click', function () {
     bodyColor.style.backgroundColor = 'green';
     navContent.style.visibility = 'hidden';
 });
-//test changes
+//test change
